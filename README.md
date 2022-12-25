@@ -1,2 +1,2 @@
-# WeatherApi
+# API
 Created with CodeSandbox
